@@ -1,2 +1,6 @@
 day la tranning
+<<<<<<< ours
 tranning cua newtranning
+=======
+tranning cua main
+>>>>>>> theirs
